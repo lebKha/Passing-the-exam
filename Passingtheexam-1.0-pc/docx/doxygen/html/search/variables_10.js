@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['save_5fdirectory_0',['save_directory',['../namespaceoptions.html#adc49d9da9ed4c98fb95c7851f6dd2507',1,'options']]],
+  ['scroll_1',['scroll',['../namespacescreens.html#aa1498ef38390e2bad0567cbc3eb48af4',1,'screens']]],
+  ['scrollbar_5fborders_2',['scrollbar_borders',['../namespacegui.html#a73bb9288b154bfe97ead61d82d6f4587',1,'gui.scrollbar_borders'],['../namespacescreens.html#aa08221e653e7bbe2cd3fb1d2c1dd26f5',1,'screens.scrollbar_borders']]],
+  ['scrollbar_5fsize_3',['scrollbar_size',['../namespacegui.html#af72806ee0ecbb4f1a1dfb4904a32fbe7',1,'gui']]],
+  ['scrollbar_5ftile_4',['scrollbar_tile',['../namespacegui.html#aaa34e6063e300759b467d8d214979603',1,'gui']]],
+  ['selected_5fcolor_5',['selected_color',['../namespacegui.html#a53bd4fe11f26b3549423fd98b6f6112b',1,'gui']]],
+  ['show_5fname_6',['show_name',['../namespaceoptions.html#a57afde9870f49f853acfa1bfc313fa16',1,'options']]],
+  ['skip_5fframe_5fborders_7',['skip_frame_borders',['../namespacegui.html#ac9c60d58583d7dc1881bf9751a9be9c9',1,'gui.skip_frame_borders'],['../namespacescreens.html#a2240f90899ff6e18b7558207b00a3568',1,'screens.skip_frame_borders']]],
+  ['skip_5fypos_8',['skip_ypos',['../namespacegui.html#ae7042fcd228c8f0139b1bc3334d34b9e',1,'gui']]],
+  ['slider_5fborders_9',['slider_borders',['../namespacegui.html#a06b72bcbd1247e4b09ebed010a7b6cde',1,'gui.slider_borders'],['../namespacescreens.html#a04743eb7a8f69f5c2680f6f8f896b40c',1,'screens.slider_borders']]],
+  ['slider_5fsize_10',['slider_size',['../namespacegui.html#a8588fce856c631827af76d5eb7df05b8',1,'gui']]],
+  ['slider_5ftile_11',['slider_tile',['../namespacegui.html#ae1f9090ab1d98608032ea03be80c7609',1,'gui']]],
+  ['slot_12',['slot',['../namespacescreens.html#a8fb743e7690066e2dc7f5de5e3cbf3c7',1,'screens']]],
+  ['slot_5fbutton_5fborders_13',['slot_button_borders',['../namespacegui.html#aa8d48a21eeffd3ac633b39dfc9b67bd0',1,'gui']]],
+  ['slot_5fbutton_5fheight_14',['slot_button_height',['../namespacegui.html#a758441dc1c0b6673b01b7b0069aa95a0',1,'gui']]],
+  ['slot_5fbutton_5ftext_5fidle_5fcolor_15',['slot_button_text_idle_color',['../namespacegui.html#aeb8a8e5f608e5f55f8d3814ecd8c6f90',1,'gui']]],
+  ['slot_5fbutton_5ftext_5fselected_5fhover_5fcolor_16',['slot_button_text_selected_hover_color',['../namespacegui.html#a6af69bd01b548729c56859c7029b90f8',1,'gui']]],
+  ['slot_5fbutton_5ftext_5fselected_5fidle_5fcolor_17',['slot_button_text_selected_idle_color',['../namespacegui.html#af5124724797097ba9e9eda86eafe94db',1,'gui']]],
+  ['slot_5fbutton_5ftext_5fsize_18',['slot_button_text_size',['../namespacegui.html#ad29250999c237be74c460f1c1169e6f4',1,'gui']]],
+  ['slot_5fbutton_5ftext_5fxalign_19',['slot_button_text_xalign',['../namespacegui.html#a5b9cceb0c5d43b52d04c4746f350d7d3',1,'gui']]],
+  ['slot_5fbutton_5fwidth_20',['slot_button_width',['../namespacegui.html#ae21ed43fbbeb1325e9e0e8698380f275',1,'gui']]],
+  ['slot_5fspacing_21',['slot_spacing',['../namespacegui.html#a4e4411b62e37c33591d33ac55452884e',1,'gui']]],
+  ['spacing_22',['spacing',['../namespacescreens.html#a8bd959d31077b644b99ea44425c5c83a',1,'screens']]]
+];

@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['main_5fmenu_5fbackground_0',['main_menu_background',['../namespacegui.html#a103dc7e71ef60430787c2e8c04a69f8f',1,'gui']]],
+  ['main_5fmenu_5fmusic_1',['main_menu_music',['../namespaceoptions.html#a4c4c965c73833bbe29a74e5fb2bced78',1,'options']]],
+  ['main_5fmenu_5ftext_5fxalign_2',['main_menu_text_xalign',['../namespacegui.html#a5f2eaf962b75c607187df93d5b7be9c1',1,'gui']]],
+  ['muted_5fcolor_3',['muted_color',['../namespacegui.html#a100a73f18db96132c60552f0bd9f0f28',1,'gui']]]
+];

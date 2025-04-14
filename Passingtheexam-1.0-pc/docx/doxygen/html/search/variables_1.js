@@ -1,20 +1,7 @@
 var searchData=
 [
   ['b_0',['b',['../namespacescript.html#a2f9f693e6480481d68ef1216beec928f',1,'script']]],
-  ['bar_5fborders_1',['bar_borders',['../namespacegui.html#a58fba4a8c8876aa9c3a58845b96ea026',1,'gui.bar_borders'],['../namespacescreens.html#a6cdca175391dc75bb91751a59e4565ba',1,'screens.bar_borders']]],
-  ['bar_5fsize_2',['bar_size',['../namespacegui.html#ae48e2c3ff0e738afc8f3fb22ee3b268d',1,'gui']]],
-  ['bar_5ftile_3',['bar_tile',['../namespacegui.html#a28d9603bc562fc207d3a3775b0b7d78e',1,'gui']]],
-  ['block_4',['block',['../namespacescreens.html#a69deda9a5a56da9a6a5d715408bf89e6',1,'screens']]],
-  ['button_5',['button',['../namespacescreens.html#aefd4216ef1ae0fd5f892b022cac4b1b0',1,'screens']]],
-  ['button_5fborders_6',['button_borders',['../namespacegui.html#a2ae359bb52c24cc7db482c7ee7ab2d81',1,'gui']]],
-  ['button_5fheight_7',['button_height',['../namespacegui.html#ac90be8222902882f65a249837e131ac3',1,'gui']]],
-  ['button_5ftext_5ffont_8',['button_text_font',['../namespacegui.html#a8bad1f36ae9fbbe6062aec4f168752cb',1,'gui']]],
-  ['button_5ftext_5fhover_5fcolor_9',['button_text_hover_color',['../namespacegui.html#ae17408dc3297e8ca7174808d02d01a96',1,'gui']]],
-  ['button_5ftext_5fidle_5fcolor_10',['button_text_idle_color',['../namespacegui.html#a615593fd20a56f43ee779051b5ac5e49',1,'gui']]],
-  ['button_5ftext_5finsensitive_5fcolor_11',['button_text_insensitive_color',['../namespacegui.html#acfbee7be91107a5b60b6ab7da663999a',1,'gui']]],
-  ['button_5ftext_5fselected_5fcolor_12',['button_text_selected_color',['../namespacegui.html#a8137c0142bc604392e6e5998f1400bee',1,'gui']]],
-  ['button_5ftext_5fsize_13',['button_text_size',['../namespacegui.html#ac90cd5006c6a15557d255d8077f74809',1,'gui']]],
-  ['button_5ftext_5fxalign_14',['button_text_xalign',['../namespacegui.html#a4de3764bd0e9bbefcfb8ef517d434451',1,'gui']]],
-  ['button_5ftile_15',['button_tile',['../namespacegui.html#ac36c233f05af8d4c0cadeba9288e3a77',1,'gui']]],
-  ['button_5fwidth_16',['button_width',['../namespacegui.html#ae0f652c6ebc09c813842a2c70e5eac6d',1,'gui']]]
+  ['bar_5fsize_1',['bar_size',['../namespacegui.html#ae48e2c3ff0e738afc8f3fb22ee3b268d',1,'gui']]],
+  ['button_5fheight_2',['button_height',['../namespacegui.html#ac90be8222902882f65a249837e131ac3',1,'gui']]],
+  ['button_5fwidth_3',['button_width',['../namespacegui.html#ae0f652c6ebc09c813842a2c70e5eac6d',1,'gui']]]
 ];

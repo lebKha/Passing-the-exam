@@ -6,6 +6,6 @@ var searchData=
   ['accent_5fcolor_3',['accent_color',['../namespacegui.html#a64e0902ba6afba94ba674bc1035cb54b',1,'gui']]],
   ['afm_5ftime_4',['afm_time',['../namespaceoptions.html#a356bc08f58f2528d97e5a64b67361284',1,'options']]],
   ['after_5fload_5ftransition_5',['after_load_transition',['../namespaceoptions.html#acd3bf089f3c2e70e684e660fc9d1e216',1,'options']]],
-  ['allow_6',['allow',['../namespacescreens.html#a874c5197d6d2328ccbecfafe737acc73',1,'screens']]],
+  ['and_20sliders_6',['and Sliders',['../namespacegui.html#Bars',1,'']]],
   ['auto_7',['auto',['../namespacescreens.html#a83d72038db5cd7192853d9fd914b1d2e',1,'screens']]]
 ];

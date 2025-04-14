@@ -1,20 +1,8 @@
 var searchData=
 [
-  ['check_5fbutton_5fborders_0',['check_button_borders',['../namespacegui.html#a0dc850f9597670eedca728dbb42f95a0',1,'gui']]],
-  ['check_5fconflicting_5fproperties_1',['check_conflicting_properties',['../namespacegui.html#a8bf61e73737b4209a8d647d398725ba0',1,'gui']]],
-  ['choice_5fbutton_5fborders_2',['choice_button_borders',['../namespacegui.html#a88a294fa73ad751224cb5520f45b00fe',1,'gui']]],
-  ['choice_5fbutton_5fheight_3',['choice_button_height',['../namespacegui.html#a0d39359bee960b3ee298ee4e89678da8',1,'gui']]],
-  ['choice_5fbutton_5ftext_5ffont_4',['choice_button_text_font',['../namespacegui.html#ad27df3817395d67aeb2f94733b213eaf',1,'gui']]],
-  ['choice_5fbutton_5ftext_5fhover_5fcolor_5',['choice_button_text_hover_color',['../namespacegui.html#a21543d05e9e8cef4d55acedaf124f89a',1,'gui']]],
-  ['choice_5fbutton_5ftext_5fidle_5fcolor_6',['choice_button_text_idle_color',['../namespacegui.html#accec35801edc2a864a632b2e80e4caf4',1,'gui']]],
-  ['choice_5fbutton_5ftext_5finsensitive_5fcolor_7',['choice_button_text_insensitive_color',['../namespacegui.html#ad53c3193925e5b204708a60e8277249a',1,'gui']]],
-  ['choice_5fbutton_5ftext_5fsize_8',['choice_button_text_size',['../namespacegui.html#a9a8ecc5494776311da926d6dbee39538',1,'gui']]],
-  ['choice_5fbutton_5ftext_5fxalign_9',['choice_button_text_xalign',['../namespacegui.html#a7a5ba5311cbcab75f50b8fadb0879ef2',1,'gui']]],
-  ['choice_5fbutton_5ftile_10',['choice_button_tile',['../namespacegui.html#a32951a2a2717794aadfef03390bd313f',1,'gui']]],
-  ['choice_5fbutton_5fwidth_11',['choice_button_width',['../namespacegui.html#a89a88fa7acbada5932097b7562679515',1,'gui']]],
-  ['choice_5fspacing_12',['choice_spacing',['../namespacegui.html#ada72165d1955c70b0fd59c9169ef93d3',1,'gui']]],
-  ['color_13',['color',['../namespacescript.html#aa6481f752f345bff06e77a8b1632e7dc',1,'script']]],
-  ['confirm_14',['confirm',['../namespacescreens.html#a2704aefcca993581d293b78be652e21b',1,'screens']]],
-  ['confirm_5fbutton_5ftext_5fxalign_15',['confirm_button_text_xalign',['../namespacegui.html#a97b8d9d19db5bdbf61291a6161d6bdc3',1,'gui']]],
-  ['confirm_5fframe_5fborders_16',['confirm_frame_borders',['../namespacegui.html#a05d9a51c47ca04f27cf16512a88e1196',1,'gui.confirm_frame_borders'],['../namespacescreens.html#a1079e8c0a0f94a045b1d34ef3c1a78e0',1,'screens.confirm_frame_borders']]]
+  ['check_5fconflicting_5fproperties_0',['check_conflicting_properties',['../namespacegui.html#a8bf61e73737b4209a8d647d398725ba0',1,'gui']]],
+  ['choice_5fbutton_5fheight_1',['choice_button_height',['../namespacegui.html#a0d39359bee960b3ee298ee4e89678da8',1,'gui']]],
+  ['choice_5fbutton_5fwidth_2',['choice_button_width',['../namespacegui.html#a89a88fa7acbada5932097b7562679515',1,'gui']]],
+  ['color_3',['color',['../namespacescript.html#aa6481f752f345bff06e77a8b1632e7dc',1,'script']]],
+  ['confirm_5fframe_5fborders_4',['confirm_frame_borders',['../namespacegui.html#a05d9a51c47ca04f27cf16512a88e1196',1,'gui']]]
 ];

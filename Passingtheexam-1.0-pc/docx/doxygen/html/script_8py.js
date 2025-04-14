@@ -7,5 +7,7 @@ var script_8py =
     [ "script.h", "namespacescript.html#ae77df6a71b41e1e771c9ae3cc51b50ed", null ],
     [ "script.l", "namespacescript.html#a18219d2319d7a01d5a16e5438e7b793f", null ],
     [ "script.n", "namespacescript.html#a5e6f92f6ed2a7fece4083c9c41e7ae59", null ],
-    [ "script.v", "namespacescript.html#aca4adf2ea727709c04cc04988a64fdfb", null ]
+    [ "script.v", "namespacescript.html#aca4adf2ea727709c04cc04988a64fdfb", null ],
+    [ "script.version", "namespacescript.html#a93e2b246a4ba1671f22392d8d1056118", null ],
+    [ "script.window_title", "namespacescript.html#ad5b3348313ffc3d9dc1445a3e5f1ffd2", null ]
 ];

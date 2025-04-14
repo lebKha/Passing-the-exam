@@ -28,9 +28,9 @@ var NAVTREE =
     [ "Пространства имен", "namespaces.html", [
       [ "Пространства имен", "namespaces.html", "namespaces_dup" ],
       [ "Члены пространств имен", "namespacemembers.html", [
-        [ "Указатель", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Указатель", "namespacemembers.html", null ],
         [ "Функции", "namespacemembers_func.html", null ],
-        [ "Переменные", "namespacemembers_vars.html", "namespacemembers_vars" ]
+        [ "Переменные", "namespacemembers_vars.html", null ]
       ] ]
     ] ],
     [ "Файлы", "files.html", [
@@ -41,8 +41,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_e00e9c8ba396d9f56cffeb2ef97dc599.html",
-"namespacescreens.html#aab5d5bfcfe0b88ab61c4e2fee1e73443"
+"dir_e00e9c8ba396d9f56cffeb2ef97dc599.html"
 ];
 
 var SYNCONMSG = 'нажмите на выключить для синхронизации панелей';

@@ -1,16 +1,8 @@
 var searchData=
 [
-  ['text_5fcolor_0',['text_color',['../namespacegui.html#ac10dc1cb1fc73b27961a647547e77cd2',1,'gui']]],
-  ['text_5fcps_1',['text_cps',['../namespaceoptions.html#a1a21570384be12be94704a6c9f750324',1,'options']]],
-  ['text_5ffont_2',['text_font',['../namespacegui.html#ab2146b11dbf03deeb2d7c24cb1ec953a',1,'gui']]],
-  ['text_5fsize_3',['text_size',['../namespacegui.html#adba18951afbd991480d557cc3f1e29e4',1,'gui']]],
-  ['textbox_5fheight_4',['textbox_height',['../namespacegui.html#a79768bb124394f81ec0ccdb35fdac5e8',1,'gui']]],
-  ['textbox_5fyalign_5',['textbox_yalign',['../namespacegui.html#ab7dc89ea25405b9538bc4cff7400c7b7',1,'gui']]],
-  ['thoughtframe_6',['thoughtframe',['../namespacescreens.html#af4c37a985973be116ff0d85b741bfa08',1,'screens']]],
-  ['thumbnail_5fheight_7',['thumbnail_height',['../namespacegui.html#afdf83ab9ac3bbb6a82bc550941309e01',1,'gui']]],
-  ['thumbnail_5fwidth_8',['thumbnail_width',['../namespacegui.html#a293fe5acd1deaa0a36d94f0c45041c2a',1,'gui']]],
-  ['tile_9',['tile',['../namespacescreens.html#a8406a9cd18f0b82466b5de03bc8fd5ad',1,'screens']]],
-  ['title_10',['title',['../namespacescreens.html#abf73694e38f7a091c948df41f8a20415',1,'screens']]],
-  ['title_5ftext_5fsize_11',['title_text_size',['../namespacegui.html#a4dd90bf5c4c22a9817ccccb6bc6f17fe',1,'gui']]],
-  ['true_12',['True',['../namespacescreens.html#a3ee3e721a19c2d9cb8d074fabe115674',1,'screens']]]
+  ['window_0',['window',['../namespaceoptions.html#af4cda17c4e71ce9aa8d3b531437bc052',1,'options.window'],['../namespacescreens.html#a3707420e55ed327ed3d504df3988dd74',1,'screens.window']]],
+  ['window_5fhide_5ftransition_1',['window_hide_transition',['../namespaceoptions.html#a3ff68278f6e270e8bf7972c3c4cad177',1,'options']]],
+  ['window_5ficon_2',['window_icon',['../namespaceoptions.html#a76e5fc3bca83f4dfb1d7e7ecf8583399',1,'options']]],
+  ['window_5fshow_5ftransition_3',['window_show_transition',['../namespaceoptions.html#aff3544c4e12fc820c8f3ffb183697701',1,'options']]],
+  ['window_5ftitle_4',['window_title',['../namespacescript.html#ad5b3348313ffc3d9dc1445a3e5f1ffd2',1,'script']]]
 ];

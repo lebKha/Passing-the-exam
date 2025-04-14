@@ -1,22 +1,6 @@
 var searchData=
 [
-  ['h_0',['h',['../namespacescript.html#ae77df6a71b41e1e771c9ae3cc51b50ed',1,'script']]],
-  ['has_5fmusic_1',['has_music',['../namespaceoptions.html#ae87b7a20f1d5f8623c795db376d7c224',1,'options']]],
-  ['has_5fsound_2',['has_sound',['../namespaceoptions.html#a7e957219613e1f958fabebd16488f310',1,'options']]],
-  ['has_5fvoice_3',['has_voice',['../namespaceoptions.html#a83ee1966ca4b7cef7da7104231bb1028',1,'options']]],
-  ['hbox_4',['hbox',['../namespacescreens.html#ab4d745e2201edfa02a22801345e36e01',1,'screens']]],
-  ['history_5fallow_5ftags_5',['history_allow_tags',['../namespacescreens.html#a4ea7372c788bde02d3a3c82d76c6c086',1,'screens']]],
-  ['history_5fheight_6',['history_height',['../namespacegui.html#a14615cbeb970e7868ca8ce9f2f739735',1,'gui']]],
-  ['history_5flength_7',['history_length',['../namespacegui.html#accc6c8b4e520e0bda4f5b90cb56d3459',1,'gui']]],
-  ['history_5fname_5fwidth_8',['history_name_width',['../namespacegui.html#a0e28d6d10544dcc521ad947f06dcecf3',1,'gui']]],
-  ['history_5fname_5fxalign_9',['history_name_xalign',['../namespacegui.html#a55d2782cd74de15caf4be50ca624a836',1,'gui']]],
-  ['history_5fname_5fxpos_10',['history_name_xpos',['../namespacegui.html#a6c0f4513775cca2aa85b9c8fa2f584b6',1,'gui']]],
-  ['history_5fname_5fypos_11',['history_name_ypos',['../namespacegui.html#a3dd3db5b4647af4f761c45634d2bebe8',1,'gui']]],
-  ['history_5fspacing_12',['history_spacing',['../namespacegui.html#a4eac8a63075e5f02c373a9b647806d28',1,'gui']]],
-  ['history_5ftext_5fwidth_13',['history_text_width',['../namespacegui.html#abae1a8e2cb7ff2d88cec2fe2d7f12198',1,'gui']]],
-  ['history_5ftext_5fxalign_14',['history_text_xalign',['../namespacegui.html#a7ce4d79af32863974fca6fd84cc7f29d',1,'gui']]],
-  ['history_5ftext_5fxpos_15',['history_text_xpos',['../namespacegui.html#a5e71b599bd2a2c26f01b83e904141952',1,'gui']]],
-  ['history_5ftext_5fypos_16',['history_text_ypos',['../namespacegui.html#aa1ee323922c289ef1b1bede9b5460db2',1,'gui']]],
-  ['hover_5fcolor_17',['hover_color',['../namespacegui.html#ad45fb70707b18453575c8cf2dc7c31b0',1,'gui']]],
-  ['hover_5fmuted_5fcolor_18',['hover_muted_color',['../namespacegui.html#a92694f4a0b85f8713441339114402c25',1,'gui']]]
+  ['idle_5fcolor_0',['idle_color',['../namespacegui.html#abcba008e7e624dd9535ab01c1459154d',1,'gui']]],
+  ['intra_5ftransition_1',['intra_transition',['../namespaceoptions.html#afa5b886ab8aac3c7c7af63ae089f8b8c',1,'options']]],
+  ['io_20project_20commented_2',['.io Project (commented)',['../C:/Users/Huawei PC/Documents/GitHub/Passing-the-exam/Passingtheexam-1.0-pc/python_module/options.py#Itch',1,'']]]
 ];
